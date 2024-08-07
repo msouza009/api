@@ -14,6 +14,5 @@ Dev Container: Open folder in Containe
 
 Selecionar NodeJs com TypeScript 
 
-Dar enter até começar a rodar.
-
+Dar enter até começar a rodar
 ```
